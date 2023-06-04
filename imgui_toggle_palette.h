@@ -1,5 +1,6 @@
 #pragma once
 
+#define IMGUI_DEFINE_MATH_OPERATORS
 #include "imgui.h"
 
 // ImGuiTogglePalette: A collection of colors used to customize the rendering of a toggle widget.

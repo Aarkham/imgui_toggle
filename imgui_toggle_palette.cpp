@@ -1,10 +1,11 @@
 #include "imgui_toggle_palette.h"
 #include "imgui_toggle_math.h"
 
-#include "imgui.h"
+
 #ifndef IMGUI_DEFINE_MATH_OPERATORS
 #define IMGUI_DEFINE_MATH_OPERATORS
 #endif // IMGUI_DEFINE_MATH_OPERATORS
+#include "imgui.h"
 #include "imgui_internal.h"
 
 using namespace ImGuiToggleMath;
